@@ -4,9 +4,8 @@
 #include <stdio.h>
 #include <stdarg.h>
 #include <unistd.h>
-#include <stdlib.h>
+#include <stdarg.h>
 #include <string.h>
-#include <limits.h>
 
 typedef struct type_format
 {
