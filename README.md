@@ -39,7 +39,6 @@ Handle the following conversion specifiers:
 - i
 
 2. Create a man page for your function (file: man_3_printf).
-## Examples of usage (with screenshots)
 ## Man page
 
 | Format     | Description                |
