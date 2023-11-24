@@ -45,9 +45,9 @@ int	print_string(va_list args)
 int	print_integer(va_list args)
 {
 	int	nb;
-	int	n;
-	int	length;
-	int	unit;
+	unsigned int	n;
+	unsigned int	length;
+	unsigned int	unit;
 
 	length = 0;
 	nb = va_arg(args, int);
