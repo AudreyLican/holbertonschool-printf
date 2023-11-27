@@ -11,7 +11,7 @@ typedef struct type_format
 {
 	char	e;
 	int	(*f)(va_list a);
-}f_t;
+} f_t;
 
 int	_putchar(char c);
 int _printf(const char *format, ...);
